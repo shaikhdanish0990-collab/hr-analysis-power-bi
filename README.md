@@ -137,7 +137,7 @@ Based on the dashboard view:
 - Attrition varies across departments and salary slabs.
 - Job role and job satisfaction can be analyzed together to identify potential attrition risk areas.
 
-> These insights are based on the dashboard preview and can change when filters are applied.
+ These insights are based on the dashboard preview and can change when filters are applied.
 
 -----
 
