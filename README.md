@@ -1,4 +1,4 @@
- 👥 HR Analysis Dashboard | Power BI
+## 👥 HR Analysis Dashboard | Power BI
 
 An interactive **HR Analysis Dashboard built with Microsoft Power BI** to analyze employee workforce data, attrition trends, salary slabs, departments, gender, age groups, job roles, job satisfaction, and employee experience.
 
