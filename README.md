@@ -122,7 +122,7 @@ Users can dynamically explore:
 - Job satisfaction
 - Employee experience
 - Attrition
-
+------
 ## 💡 Key Business Insights
 
 Based on the dashboard view:
